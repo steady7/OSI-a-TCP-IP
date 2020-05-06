@@ -22,7 +22,7 @@ logicky je myšleno jak na sebe vrstva klienta a serveru reagují ( jeden zašif
 1)pokud posílám obrázek do počítače mého přítele, musím použít některé standardní formáty jako gif nebo PNG, aby počítač mého kamaráda rozuměl.
 2)pokud chci sdílet videa na YouTube, musím použít standardní formát jako mp4 nebo AV
 ### Shrnutí:
-![presentation](presen5.png)
+![presentation](prezen5.png)
 # Relační vrstva
 ## Vysvětlení na příkladu:
 nejlepším příkladem pro vysvětlení této vrstvy je
