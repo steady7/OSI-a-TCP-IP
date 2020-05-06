@@ -33,7 +33,7 @@ telefonní hovor, ve kterém:
 3) a poté ukončíte spojení
 ![relacni](relacni.gif)
 ### Hlavní funkce vrstvy:
-![relacni](relační.png)
+![relacni](relacni.png)
 ### Vysvětlení proč 5-7 vrstvy v OSI se stanou jednou vrstvou v TCP/IP
 ![Vysvetleni](vysvetleniPDU.gif)
 ### Příklady zařízení který využívají jaký vrstvy
