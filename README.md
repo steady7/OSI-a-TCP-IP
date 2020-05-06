@@ -24,6 +24,7 @@ logicky je myšleno jak na sebe vrstva klienta a serveru reagují ( jeden zašif
 ### Shrnutí:
 ![presentation](prezen5.png)
 # Relační vrstva
+![relacni](relacni.png)
 ## Vysvětlení na příkladu:
 nejlepším příkladem pro vysvětlení této vrstvy je
 telefonní hovor, ve kterém:
@@ -31,6 +32,8 @@ telefonní hovor, ve kterém:
 2) poté zahajte konverzaci
 3) a poté ukončíte spojení
 ![relacni](relacni.gif)
+### Hlavní funkce vrstvy:
+![relacni](relační.png)
 ### Vysvětlení proč 5-7 vrstvy v OSI se stanou jednou vrstvou v TCP/IP
 ![Vysvetleni](vysvetleniPDU.gif)
 ### Příklady zařízení který využívají jaký vrstvy
