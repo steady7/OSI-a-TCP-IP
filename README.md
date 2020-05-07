@@ -8,6 +8,8 @@
 ![(ne)spojovanesluzby]((ne)spojovanesluzby.png)
 ## Adresovani pocitacu
 ![Adresovani](Adresovani.png)
+## Ip adresy
+![Ip adresy](ipadresy.png)
 ## Jak data kolují fyzicky v OSI modelu
 ![datakoluji](datakoluji.gif)
 Kdyz odpoví server tak zas začne v aplikační vrstvě dolů a pak zas u klienta nahoru.
@@ -21,7 +23,8 @@ logicky je myšleno jak na sebe vrstva klienta a serveru reagují ( jeden zašif
 ![technically](technically.png)
 ## Rozdíl ve vrstvách
 ![tcpipVSisoosi](tcpipVSisoosi.jpg)
-# Transportní vrstva
+# Prezentační vrstva
+![prezentační](prezenn.png)
 ![presentation](presentation.png)
 ![presentation](prezent2.png)
 ### jednoduše řečeno
@@ -42,6 +45,18 @@ telefonní hovor, ve kterém:
 ![relacni](relacni.gif)
 ### Hlavní funkce vrstvy:
 ![relacni](relacni.png)
+# Transportní vrstva
+![transport](transport.png)
+![transport_v_tcp](transport_v_tcp.png)
+# Síťová vrstva
+![sítová](sitovavrstva.png)
+### Internet protokol (IP)
+![IP](IP.png)
+### Směrování
+![směrování](směrování.png)
+![směrování2](směrování2.png)
+![principy_smerovani](principy_smerovani.png)
+![smerovaci_algoritmus](smerovaci_algoritmus.png)
 ### Vysvětlení proč 5-7 vrstvy v OSI se stanou jednou vrstvou v TCP/IP
 ![Vysvetleni](vysvetleniPDU.gif)
 ### Příklady zařízení který využívají jaký vrstvy
