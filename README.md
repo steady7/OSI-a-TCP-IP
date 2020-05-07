@@ -18,9 +18,22 @@ Kdyz odpoví server tak zas začne v aplikační vrstvě dolů a pak zas u klien
 logicky je myšleno jak na sebe vrstva klienta a serveru reagují ( jeden zašifruje, druhej zas odšifruje atd)
 # Aplikační vrstva
 ### netechnicky vysvětleno
+
 ![non-technical](nontechnicalappliation.png)
 ### technicky vysvětleno
 ![technically](technically.png)
+## Aplikační vrstva v TCP/IP
+![tcpaplika](tcpaplika.png)
+## DNS
+![DNS1](DNS1.png)
+![DNS2](DNS2.png)
+### DNS záznamy
+![DNSzaznamy](DNSzaznamy.png)
+### Hierarchie DNS serverů
+![DNSserver](DNSserver.png)
+## File Transfer Protocol
+![FTP1](FTP1.png)
+![FTP2](FTP2.png)
 ## Rozdíl ve vrstvách
 ![tcpipVSisoosi](tcpipVSisoosi.jpg)
 # Prezentační vrstva
@@ -83,6 +96,7 @@ např.: klasické vysílačky
 umožňuje současnou komunikaci oběma směry
 např.: běžné datové sítě
 ![full_duplex](full_duplex.png)
+## Zbytek od Lazarova....
 
 ### Vysvětlení proč 5-7 vrstvy v OSI se stanou jednou vrstvou v TCP/IP
 ![Vysvetleni](vysvetleniPDU.gif)
