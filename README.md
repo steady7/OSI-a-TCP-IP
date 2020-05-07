@@ -36,7 +36,7 @@ logicky je myšleno jak na sebe vrstva klienta a serveru reagují ( jeden zašif
 ![presentation](prezen5.png)
 # Relační vrstva
 ![relacni](relacni.png)
-## Vysvětlení na příkladu:
+### Vysvětlení na příkladu:
 nejlepším příkladem pro vysvětlení této vrstvy je
 telefonní hovor, ve kterém:
 1) Nejprve vytvoříte spojení
@@ -57,6 +57,33 @@ telefonní hovor, ve kterém:
 ![směrování2](směrování2.png)
 ![principy_smerovani](principy_smerovani.png)
 ![smerovaci_algoritmus](smerovaci_algoritmus.png)
+### Internet Control Message Protocol
+![ICMP](ICMP.png)
+![ICMP2](ICMP2.png)
+### Ping
+![ping](ping.png)
+## Techniky směrování
+![techniky_směrování](techniky_směrování.png)
+### Statické směrování
+![staticke](staticke.png)
+### Dynamické směrování
+![dynamicke](dynamicke.png)
+# Linková vrstva
+![linkova](linkova.png)
+## režimy komunikace
+
+### simplexní spojení (simplex)
+metoda jednosměrné komunikace
+např.: klasické rozhlasové a televizní vysílání
+### poloviční duplexní spojení (half-duplex)
+obousměrná komunikace není možná souběžně (střídání)
+např.: klasické vysílačky
+![half_duplex](half_duplex.png)
+### plně duplexní spojení (full-duplex)
+umožňuje současnou komunikaci oběma směry
+např.: běžné datové sítě
+![full_duplex](full_duplex.png)
+
 ### Vysvětlení proč 5-7 vrstvy v OSI se stanou jednou vrstvou v TCP/IP
 ![Vysvetleni](vysvetleniPDU.gif)
 ### Příklady zařízení který využívají jaký vrstvy
