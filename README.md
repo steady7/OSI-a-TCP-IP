@@ -107,5 +107,7 @@ např.: běžné datové sítě
 ### Co první 3 vrstvy  dělájí (apl,prezen, relační)
 ![funkce](funkce.png)
 
+# 16/5/2020
 
+![osivstcp](osivstcp.png)
 
